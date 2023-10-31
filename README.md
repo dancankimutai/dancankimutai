@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi 👋, I'm Dancan Kimutai
+A passionate Web3 developer and auditor from Kenya
+
+    🔭 I’m currently working on Blockchain Development(Solidity)
+
+    👨‍💻 All of my projects are available at https://github.com/dancankimutai
+
+    📫 I often participate in hackathons and on open source projects of interest to me.If you'd like to support me you can buy me a coffee here https://www.buymeacoffee.com/driko00
+
+
+
+Languages and Tools:
+
+solidity,typescript linux xd 
