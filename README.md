@@ -21,7 +21,9 @@ A passionate Web3 developer and auditor from Kenya
 
     👨‍💻 All of my projects are available at https://github.com/dancankimutai
 
-    📫 I often participate in hackathons and on open source projects of interest to me.If you'd like to support me you can buy me a coffee here https://www.buymeacoffee.com/driko00
+    📫 I often participate in hackathons and on open source projects of interest to me.
+    
+    📫If you'd like to support me you can buy me a coffee here https://www.buymeacoffee.com/driko00
 
 
 
