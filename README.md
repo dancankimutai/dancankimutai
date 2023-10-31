@@ -1,32 +1,13 @@
-### Hi there 👋
-
-<!--
-**dancankimutai/dancankimutai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hi 👋, I'm Dancan Kimutai
-A passionate Web3 developer and auditor from Kenya
-
-    🔭 I’m currently working on Blockchain Development(Solidity)
-
-    👨‍💻 All of my projects are available at [https://github.com/dancankimutai](https://github.com/dancankimutai)
-
-    📫 I often participate in hackathons and on open source projects of interest to me.
+<h1 align="center">Hi 👋, I'm Dancan Kimutai</h1>
+<h3 align="center">A passionate Web3 developer and auditor from Kenya<h3>
     
-    📫If you'd like to support me you can buy me a coffee [https://www.buymeacoffee.com] (https://www.buymeacoffee.com)/driko00
-
-
-
+I’m currently working on Blockchain Development(Solidity)  
+    
+I often participate in hackathons and on open source projects of interest to me.
+    
+All of my projects are available at [https://github.com/dancankimutai](https://github.com/dancankimutai)
 Languages and Tools:
 
 solidity,typescript linux xd 
+
+If you'd like to support me you can buy me a coffee at [https://www.buymeacoffee.com/driko00](https://www.buymeacoffee.com/driko00)
