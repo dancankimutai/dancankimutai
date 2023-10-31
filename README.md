@@ -19,11 +19,11 @@ A passionate Web3 developer and auditor from Kenya
 
     🔭 I’m currently working on Blockchain Development(Solidity)
 
-    👨‍💻 All of my projects are available at [my github](https://github.com/dancankimutai)
+    👨‍💻 All of my projects are available at [https://github.com/dancankimutai](https://github.com/dancankimutai)
 
     📫 I often participate in hackathons and on open source projects of interest to me.
     
-    📫If you'd like to support me you can buy me a coffee [here] (https://www.buymeacoffee.com)/driko00
+    📫If you'd like to support me you can buy me a coffee [https://www.buymeacoffee.com] (https://www.buymeacoffee.com)/driko00
 
 
 
