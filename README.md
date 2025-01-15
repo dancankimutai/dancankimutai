@@ -10,4 +10,3 @@ Languages and Tools:
 
 python,solidity,typescript linux
 
-If you'd like to support me you can buy me a coffee at [https://www.buymeacoffee.com/driko00](https://www.buymeacoffee.com/driko00)
